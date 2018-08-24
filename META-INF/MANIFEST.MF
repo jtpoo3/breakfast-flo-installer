@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA-256-Digest: I6eeNNf4vzjZ32ypuVWtoBGmg5DBgC97rfJmoWeBaXk=
+
+Name: kernel/ramparts/fstab.flo
+SHA-256-Digest: z2E/n6ZvHcBuTe9Jw0KwREivzPNYONXcxSd4QmIYu/U=
+
+Name: kernel/ramparts/init.flo.rc
+SHA-256-Digest: b9fHCKOD68KyY4urnkBlE+rhkZ88R9I/PGiAHXWWgEI=
+
+Name: META-INF/com/google/android/update-binary
+SHA-256-Digest: MlwlZafKq1XN0DkkveRmTD44LriluYyh8ZU89CKz6qc=
+
+Name: kernel/ramparts/init.flo_n.rc
+SHA-256-Digest: Y2/aM4Qyjg+QayBglsUvown1MmSAcQPdSLSHiRgxRRY=
+
+Name: kernel/tools/mkbootimg
+SHA-256-Digest: j9LPCJ/apkeQMIAEWLbkj3G4cwyFmUj8y6rsotgoG38=
+
+Name: kernel/zImage
+SHA-256-Digest: 9KFdsH1LUtWJcNJN8H2H9EKK2rGJzcJZtj9FzxIAK3U=
+
+Name: kernel/tools/unpackbootimg
+SHA-256-Digest: S6Hze5CeY2AflMEgF4kja+lNQEIoIyUmk7Cbe3iQUC0=
+
+Name: kernel/config.sh
+SHA-256-Digest: /fd7vFXYcqEVPE5aq6VkjDSxBaZpjgzCLuE1CAbmG6Y=
+
