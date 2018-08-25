@@ -189,7 +189,7 @@ on post-fs-data
     # KCAL configuration
     write /sys/devices/platform/kcal_ctrl.0/kcal_enable 1
     write /sys/devices/platform/kcal_ctrl.0/kcal_invert 0
-    write /sys/devices/platform/kcal_ctrl.0/kcal "256 224 194"
+    write /sys/devices/platform/kcal_ctrl.0/kcal "255 218 187"
 
     setprop vold.post_fs_data_done 1
 
